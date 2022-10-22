@@ -231,13 +231,13 @@ span{
 
 @keyframes loading{
     0%{
-        transform: translateX(-270%);
+        transform: translateX(-273%);
     }
     50%{
         transform: translateX(0%);
     }
     100%{
-        transform: translateX(-270%);
+        transform: translateX(-273%);
     }
 }
 
@@ -674,6 +674,10 @@ header.sticky{
 }
 
 .inspires img{
+    width: 100%;
+}
+
+.inspires iframe{
     width: 100%;
 }
 
